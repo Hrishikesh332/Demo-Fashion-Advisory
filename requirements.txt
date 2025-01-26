@@ -1,3 +1,4 @@
 streamlit 
 google-generativeai 
 Pillow
+python-dotenv
